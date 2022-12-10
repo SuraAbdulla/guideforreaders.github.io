@@ -3,7 +3,7 @@ h2.title {padding:140px; font-family: Georgia, sans-serif; font-size: 50px; colo
 li.icon {display: inline; margin-right: 10px; font-size: 20px}
 li {font-size: 20px; color: black;}
 h3 {color:green; font-family: Georgia, sans-serif; font-size: 30px;}
-p {color:black; text-align: left; font-size: 25px; font-family: 'garamond',serif; margin-right: 300px; margin-left: 50px;}
+p {color:black; text-align: left; font-size: 25px; font-family: 'garamond',serif; margin-right: 200px; margin-left: 50px;}
 body {background-color: lemonchiffon;}
 body {background-image: url("pic1.jpg"); height: 300px; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative;}
 button.Home {background-color: khaki;
