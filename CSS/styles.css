@@ -1,7 +1,7 @@
 ul.top {text-align: right;}
-h2.title {padding:60px; font-family: Georgia, sans-serif; font-size: 50px; color: white; text-align: center;}
+h2.title {padding:50px; font-family: Georgia, sans-serif; font-size: 50px; color: white; text-align: center;}
 li {display: inline;margin-right: 10px; font-size: 20px}
-h3 {color:green; font-family: Georgia, sans-serif; font-size: 30px; text-align: center;}
+h3 {color:green; font-family: Georgia, sans-serif; font-size: 30px; text-align: left;}
 h4 {padding:60px; font-family: Georgia, sans-serif; font-size: 30px; color:white; text-align: center;}
 p {color:black; text-align: left; font-size: 25px; font-family: 'garamond',serif; margin-right: 200px; margin-left: 50px;}
 body {background-color: lemonchiffon;}
@@ -30,7 +30,9 @@ button.Home {background-color: khaki;
   color: white;}
   p.intro {text-align: center; font-size: 30px; font-family: 'garamond',serif; margin-top: 100px; margin-bottom: 100px; margin-right: 150px; margin-left: 150px; border: 2px solid green;
   border-radius: 20px;}
-img{width: 275px;text-align: center;display:block; margin-left: auto; margin-right: auto; width: 45%}
-img.reading {width: 275px;text-align: center;display:block; margin-left: auto; margin-right: auto; width: 45%}
-@media screen and (min-width: 2000px) {
-  body {background-color: peachpuff;}}
+img{width: 275px;text-align: left;display:block; margin-left: 100px; margin-right: auto; width: 45%}
+img.reading {width: 275px;text-align: center;display:block; margin-left: auto; margin-right: auto; width: 55%}
+@media only screen
+  and (device-width: 390px)
+  and (device-height: 844px)
+  and (-webkit-device-pixel-ratio: 3) {body {background-color: peachpuff;}}
