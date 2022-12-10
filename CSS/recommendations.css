@@ -1,7 +1,7 @@
 ul.bar {text-align: right;}
 h2.title {padding:140px; font-family: Georgia, sans-serif; font-size: 50px; color: white; text-align: center;}
 li.icon {display: inline; margin-right: 10px; font-size: 20px}
-li {font-size: 20px; color: black;}
+li {font-size: 25px; color: black;text-align: left; font-family: 'garamond',serif; margin-right: 200px; margin-left: 50px;}
 h3 {color:green; font-family: Georgia, sans-serif; font-size: 30px;}
 p {color:black; text-align: left; font-size: 25px; font-family: 'garamond',serif; margin-right: 200px; margin-left: 50px;}
 body {background-color: lemonchiffon;}
