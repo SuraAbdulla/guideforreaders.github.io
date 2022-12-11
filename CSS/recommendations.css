@@ -28,7 +28,3 @@ button.Home {background-color: khaki;
   background-color: #4CAF50;
   color: white;}
 img{width: 275px;text-align: center;display:block; margin-left: auto; margin-right: auto; width: 35%}
-@media only screen
-  and (device-width: 390px)
-  and (device-height: 844px)
-  and (-webkit-device-pixel-ratio: 3) {body {background-color: peachpuff;}}
